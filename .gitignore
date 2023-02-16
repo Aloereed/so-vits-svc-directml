@@ -1,0 +1,9 @@
+*.wav
+*.pt
+*.npy
+*.mdl
+filelists/
+*.flac
+logs/*
+configs/*
+checkpoints/*
