@@ -9,7 +9,7 @@
 + onnx/gradio:没有经过测试
 > 测试平台：Intel Arc A770 16GB\
 > 问题：在预训练或推理过程中，都有很大概率遇到黑屏等情况而导致程序终止。
-
+!()[gpu.png]
 ## 以下是原仓库说明
 ## English docs
 [英语资料](Eng_docs.md)
